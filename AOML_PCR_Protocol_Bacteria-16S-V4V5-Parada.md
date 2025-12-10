@@ -82,7 +82,7 @@ seq_method_additional: not applicable
 
 ---
 
-# NOAA/AOML PCR Protocol 16S rRNA V4-V5 (EMP)
+# NOAA/AOML PCR Protocol 16S rRNA V4-V5 (Parada)
 
 ## PROTOCOL INFORMATION
 
