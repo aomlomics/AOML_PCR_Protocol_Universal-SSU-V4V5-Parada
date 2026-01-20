@@ -69,7 +69,6 @@ pcr2_annealingTemp: 60
 pcr2_cycles: 11
 pcr2_analysis_software: not applicable
 pcr2_method_additional: not applicable
-
 ---
 
 # NOAA/AOML PCR Protocol 16S rRNA V4-V5 (Parada)
