@@ -26,7 +26,7 @@ maturity level: mature
 pcr_0_1: 1
 thermocycler: Eppendorf Mastercycler Nexus Thermal Cycler
 amplificationReactionVolume: 25
-assay_name: ssu16sv4v5_emp
+assay_name: Universal-SSU-V4V5-Parada
 assay_validation: not provided
 targetTaxonomicAssay: 16S rRNA gene sequencing targeting the V4-V5 region using primers 515F and 926R
 targetTaxonomicScope: Prokaryotes, including Bacteria and Archaea
@@ -98,11 +98,7 @@ pcr2_method_additional: not applicable
 
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
 | ------------- | ------------- | ------------- | ------------- |
-| NOAA/AOML Water Sampling Protocol using Sterivex with Zirconia Beads  | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_sampling_sterivex_beads.md> | 1.2.0 | 2025-01-08 |
-| NOAA/AOML DNA Extraction Protocol for Sterivex using KingFisher | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_extractdna_sterivex_kingfisher.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 12S rRNA V5-V6 (MiFish) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu12sv5v6_mifish.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML PCR Protocol 18S rRNA V9 (EMP) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu18sv9_emp.md> | 1.1.0 | 2024-11-16 |
-| NOAA/AOML Metagenome Library Prep Protocol (Illumina DNA Prep) | <https://github.com/aomlomics/protocols/blob/main/markdown/protocol_libprep_metag_illumina.md> | 1.1.0 | 2024-11-16 |
+| AOML 'Omics Protocols | <https://github.com/aomlomics/protocols> | 1.2.2 | ongoing |
 
 ## RELATED EXTERNAL PROTOCOLS
 
@@ -121,6 +117,7 @@ pcr2_method_additional: not applicable
 | 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
 | 1.2.0 | 2025-09-18 | Addition of sequencing preparation and Illumina sequencing facility information |
 | 1.2.1 | 2025-12-15 | Update YAML front matter |
+| 1.2.2 | 2026-01-23 | Renamed assay |
 
 ### Acronyms and Abbreviations
 
