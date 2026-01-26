@@ -8,7 +8,7 @@ geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853
 broad_scale_environmental_context: marine biome [ENVO:00000447]
 local_environmental_context: marine pelagic zone [ENVO:00000208], marine benthic biome [ENVO:01000024]
 environmental_medium: seawater [ENVO:01001964]
-target: 16S Mitochondrial Ribosomal RNA [NCIT:C131261]
+target: "16S Mitochondrial Ribosomal RNA [NCIT:C131261]"
 creator: Luke Thompson, Sean Anderson
 materials_required: vortexer [OBI:0400118], PCR instrument [OBI:0000989], agarose gel electrophoresis system [OBI:0001134]
 skills_required: sterile technique, pipetting skills, standard molecular technique
@@ -30,7 +30,7 @@ assay_name: Universal-SSU-V4V5-Parada
 assay_validation: not provided
 targetTaxonomicAssay: 16S rRNA gene sequencing targeting the V4-V5 region using primers 515F and 926R
 targetTaxonomicScope: Prokaryotes, including Bacteria and Archaea
-target_gene: 16S rRNA
+target_gene: 16S rRNA (SSU prokaryote)
 target_subfragment: V4-V5
 ampliconSize: 411
 pcr_primer_forward: GTGYCAGCMGCCGCGGTAA
